@@ -69,8 +69,6 @@ The project focuses on understanding sales performance from several perspectives
 ### Revenue by City
 ![Revenue by City](images/revenue_por_ciudad.png)
 
-### Payment Methods
-![Payment Methods](images/metodos_de_pago.png)
 
 ## Conclusions
 
